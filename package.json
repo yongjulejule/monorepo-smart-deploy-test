@@ -1,0 +1,6 @@
+{
+  "name": "monomsa",
+  "workspaces": [
+    "services/*"
+  ]
+}
